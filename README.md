@@ -2,8 +2,7 @@
 
 ## Abstract:
 
-<p align="justify">Right in the middle of Operations Research and Graph Theory, this project consists of implementing <i><b>Dijkstra's</b></i> algorithm to produce shortest-path trees for all nodes of a directed graph. The algorithm is a shortest-path algorithm part of the larger class of Graph and tree
-search algorithms, with a <b>wide range of applications</b> from graph optimization to network routing protocols, all the way to distributed computing. This project was conducted from February 2019 to June 2019 as a student at the <b>University of Technology of Troyes</b>. Below are a few paragraphs to give you context about the project.</p>
+<p align="justify">Right in the middle of Operations Research and Graph Theory, this project consists of implementing <i><b>Dijkstra's</b></i> algorithm to produce shortest-path trees for all nodes of a directed graph. The algorithm is a shortest-path algorithm part of the larger class of Graph and tree search algorithms, with a <b>wide range of applications</b> from graph optimization to network routing protocols, all the way to distributed computing. This project was conducted from February 2019 to June 2019 as a student at the <b>University of Technology of Troyes</b>. Below are a few paragraphs to give you context about the project.</p>
 
 ## Repository Assets:
 
