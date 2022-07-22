@@ -13,11 +13,11 @@
 
 ## Business Context:
 
-<p align="justify">One of the very first step in Data Science and Optimization projects is the <i>data preparation</i>. More often than not, data could be stored or modelled as a graph or a tree. In this context it is essential to prepare and store the data in the right data structures, and this might involve pre-processing the data. For the purpose of finding the shortest-path between all nodes of a directed graph, known as the shortest path trees, Dijsktra's algorithm is required.</p>
+<p align="justify">One of the very first steps in Data Science and Optimization projects is <i>data preparation</i>. More often than not, data could be stored or modeled as a graph or a tree. In this context, it is essential to prepare and store the data in the right data structures, and this might involve pre-processing the data. For the purpose of finding the shortest-path between all nodes of a directed graph, known as the shortest-path trees, Dijkstra's algorithm is required.</p>
 
 ## Problem Description:
 
-<p align="justify">The objective of this project is to implement Dijkstra's algorithm to build and complete a graph based on Euclidean distances, representing the road network of a country. This will therefore make possible the mathematical modelling of many different problem faced while managing for a country. Lastly decision making will be optimized using common linear programming methods of optimization.</p>
+<p align="justify">The objective of this project is to implement Dijkstra's algorithm to build and complete a graph based on Euclidean distances, representing the road network of a country. This will therefore make possible the mathematical modeling of many different problems faced while managing a country. Lastly, decision-making will be optimized using common linear programming methods of optimization.</p>
 
 ***
 
