@@ -21,4 +21,4 @@
 
 ***
 
-<i>Should you have any question, feel free to write me an [email](mailto:mlepicier.msc2022@ivey.ca), I am always happy to help.</i>
+<i>Should you have any questions, feel free to write me an [email](mailto:mlepicier.msc2022@ivey.ca), I am always happy to help.</i>
